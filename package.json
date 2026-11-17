@@ -1,0 +1,22 @@
+{
+  "name": "thecarepal-visit-feedback-dashboard",
+  "version": "1.0.0",
+  "description": "Visit Feedback and Care Quality Dashboard for TheCarePal (Task ID: FS-08)",
+  "scripts": {
+    "dev": "node scripts/start-dev.js",
+    "client": "npm run dev --prefix client",
+    "server": "npm run dev --prefix server",
+    "build": "npm run build --prefix client",
+    "seed": "npm run seed --prefix server",
+    "start": "node server/src/index.js"
+  },
+  "keywords": [
+    "thecarepal",
+    "healthcare",
+    "feedback-loop",
+    "nps",
+    "quality-dashboard"
+  ],
+  "author": "TheCarePal Candidate",
+  "license": "ISC"
+}
