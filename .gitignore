@@ -7,9 +7,9 @@ node_modules/
 dist/
 build/
 
-# Video generator temporary artifacts
-video-generator/node_modules/
-video-generator/output/
+# Excluded generator and scripts
+video-generator/
+WALKTHROUGH_SCRIPT.md
 
 # Environment files
 .env
