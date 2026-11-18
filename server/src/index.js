@@ -55,7 +55,7 @@ async function startServer() {
       await seed();
     }
 
-    app.listen(PORT, () => {
+    app.listen(PORT, '0.0.0.0', () => {
       console.log(`\n=================================================`);
       console.log(`  TheCarePal Feedback API running on port ${PORT}`);
       console.log(`  Health check: http://localhost:${PORT}/api/health`);
