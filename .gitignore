@@ -7,6 +7,10 @@ node_modules/
 dist/
 build/
 
+# Video generator temporary artifacts
+video-generator/node_modules/
+video-generator/output/
+
 # Environment files
 .env
 .env.local

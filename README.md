@@ -17,6 +17,16 @@ This repository delivers an end-to-end feedback loop and quality management dash
 
 ---
 
+## 🎥 Walkthrough Video (Submission Requirement)
+
+A complete **4-minute 11-second** screen-recorded walkthrough video with professional voiceover narration has been pre-rendered and is included directly in the repository root:
+- **Video File:** [`thecarepal_walkthrough.mp4`](./thecarepal_walkthrough.mp4) (1080p Full HD, H.264 / AAC, 9.19 MB)
+- **Duration:** 4 minutes 11 seconds (strictly within the **2 to 5 minutes** assignment requirement)
+- **Content Covered:** Shows the working product first (Mobile family feedback form, live rating, single-use security, and link expiry), then walks through the Operations Quality CRM (NPS calculation, Recharts trends, nurse leaderboard, low-score follow-up queue, profanity filter audit, CSV export, and weekly email digest), followed by code architecture and design decisions.
+- **For Evaluator Submission:** You can upload this `thecarepal_walkthrough.mp4` file directly to Google Drive or YouTube (unlisted) and submit the link via TheCarePal submission form.
+
+---
+
 ## 🌟 Feature Checklist
 
 | Requirement | Category | Implementation Details | Status |
